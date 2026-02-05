@@ -1,4 +1,4 @@
-# RNNs with Independency Assumptions: Scalable and Efficient Sequence Learning
+# Sample Conference Paper - RNN Implementation
 
 ## Overview
 
