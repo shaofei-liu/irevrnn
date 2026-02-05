@@ -4,7 +4,7 @@
 
 A comprehensive implementation of RNNs with independency assumptions for memory-efficient and scalable sequence processing. This project demonstrates efficient neural network architectures with practical GPU-accelerated implementations using PyTorch and CUDA.
 
-**Author's Note:** The original master's thesis manuscript is available upon request. This repository contains the code implementation and technical documentation of the research.
+**Author's Note:** A sample conference paper derived from this research is available upon request. This repository contains the code implementation and technical documentation of the research.
 
 ## Project Details
 
