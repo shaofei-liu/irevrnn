@@ -229,7 +229,7 @@ irevrnn/
 ## Related References
 
 - **GitHub Repository:** [github.com/shaofei-liu/irevrnn](https://github.com/shaofei-liu/irevrnn)
-- **Portfolio:** [shaofei-liu.github.io](https://shaofei-liu.github.io)
+- **Portfolio:** [www.shaofeiliu.com](https://www.shaofeiliu.com)
 
 ## License
 
