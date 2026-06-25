@@ -1,0 +1,48 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Personal files
+*.pdf
+*.doc
+*.docx
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Compiled CUDA/C++
+build/
+dist/
+*.egg-info/
+
+# Data files
+data/
+datasets/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
