@@ -51,3 +51,8 @@ or checkpoint source is specified by this repository.
   module; see above).
 - `action_main.py`, `irevrnn_mnist_action_model.py` — action example code.
 - `action/` — action-data readers and conversion utilities.
+
+## Contact and links
+
+- **Personal website and contact:** [shaofeiliu.com](https://www.shaofeiliu.com/)
+- **Questions about this code:** open an issue in this repository.
